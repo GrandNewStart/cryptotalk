@@ -32,7 +32,7 @@ Only you and your friend can decrypt your messages.
 5. **Java BouncyCastle** & **Dart PointyCastle** compatibility
 
 ## Usage tutorial
-![](./screenshots/01.PNG)
+<img src="./screenshots/01.PNG" alt="Description" style="width:50%; height:auto;">
 1. Once you run the app, this will be the first screen you will see.
 
 ![](./screenshots/02.PNG)
@@ -56,8 +56,8 @@ Only you and your friend can decrypt your messages.
 ![](./screenshots/08.PNG)
 8. You can type your message and tap '전송' button and all messages will be refreshed.
 
-![](./screenshots/09.PNG)
+![](./screenshots/09)
 9. If you look up the DB through h2-console, you'll see there are two users inserted: you and your friend.
  
-![](./screenshots/10.PNG) 
+![](./screenshots/10) 
 10. Also, you'll see the messages you've sent and received are stored in encrypted form and there's nothing that can decrypt this message in the DB.
