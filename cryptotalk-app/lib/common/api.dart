@@ -11,7 +11,7 @@ import 'package:cryptotalk/models/friend.dart';
 import 'hex_utils.dart';
 
 class API {
-  static const HOST_URL = 'YOUR_OWN_HOST_ADDRESS';
+  static const HOST_URL = 'YOUT_HOST_URL';
   static const HEADERS = {'Content-Type': 'application/json;charset=utf-8'};
 
   static Uint8List createBody(dynamic body) {
