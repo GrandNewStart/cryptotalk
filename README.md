@@ -57,8 +57,8 @@ Only you and your friend can decrypt your messages.
 <img src="./screenshots/08.PNG" alt="Description" style="width:40%; height:auto;">
 
 9. If you look up the DB through h2-console, you'll see there are two users inserted: you and your friend.
-<img src="./screenshots/09.png" alt="Description" style="width:40%; height:auto;">
+<img src="./screenshots/09.png" alt="Description" style="width:100%; height:auto;">
 
 10. Also, you'll see the messages you've sent and received are stored in encrypted form and there's nothing that can decrypt this message in the DB. 
-<img src="./screenshots/10.png" alt="Description" style="width:40%; height:auto;">
+<img src="./screenshots/10.png" alt="Description" style="width:100%; height:auto;">
 
