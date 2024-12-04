@@ -1,10 +1,7 @@
 # CryptoTalk
 
 ## The single most secure chat app you have ever witnessed in the market
-
-### This is a tutorial project intended for practicing the real-life digital cryptography
-### If you want to learn how cryptography is implemented in an actual product,
-### you're in the right place.
+This is a tutorial project intended for practicing the real-life digital cryptography. If you want to learn how cryptography is implemented in an actual product, you're in the right place.
  
 ## What's this app?
 CryptoTalk is a fully-encrypted chat app.
@@ -59,6 +56,6 @@ Only you and your friend can decrypt your messages.
 9. If you look up the DB through h2-console, you'll see there are two users inserted: you and your friend.
 <img src="./screenshots/09.png" alt="Description" style="width:100%; height:auto;">
 
-10. Also, you'll see the messages you've sent and received are stored in encrypted form and there's nothing that can decrypt this message in the DB. 
+10. Also, you'll see the messages you've sent and received are stored in encrypted form and there's nothing that can decrypt these messages in the DB. 
 <img src="./screenshots/10.png" alt="Description" style="width:100%; height:auto;">
 
