@@ -32,32 +32,33 @@ Only you and your friend can decrypt your messages.
 5. **Java BouncyCastle** & **Dart PointyCastle** compatibility
 
 ## Usage tutorial
-<img src="./screenshots/01.PNG" alt="Description" style="width:50%; height:auto;">
 1. Once you run the app, this will be the first screen you will see.
+<img src="./screenshots/01.PNG" alt="Description" style="width:40%; height:auto;">
 
-![](./screenshots/02.PNG)
 2. Enter your favored name.
+<img src="./screenshots/02.PNG" alt="Description" style="width:40%; height:auto;">
 
-![](./screenshots/03.PNG)
 3. Once you tap 'log in' button, you will be guided to a friend list screen.
+<img src="./screenshots/03.PNG" alt="Description" style="width:40%; height:auto;">
 
-![](./screenshots/04.PNG)
 4. Tap '친구 추가' button, and scan the QR code of the friend you'd like to chat with.
+<img src="./screenshots/04.PNG" alt="Description" style="width:40%; height:auto;">
 
-![](./screenshots/05.PNG)
 5. Once you scanned the code, you will be guided back to the previous screen and find your friend in the list.
+<img src="./screenshots/05.PNG" alt="Description" style="width:40%; height:auto;">
 
-![](./screenshots/06.PNG)
 6. Tap your friend and enter the chat screen
+<img src="./screenshots/06.PNG" alt="Description" style="width:40%; height:auto;">
 
-![](./screenshots/07.PNG)
 7. CryptoTalk doesn't support real-time message pulling, so you have to tap '새로고침' manually to refresh the messages.
+<img src="./screenshots/07.PNG" alt="Description" style="width:40%; height:auto;">
 
-![](./screenshots/08.PNG)
 8. You can type your message and tap '전송' button and all messages will be refreshed.
+<img src="./screenshots/08.PNG" alt="Description" style="width:40%; height:auto;">
 
-![](./screenshots/09)
 9. If you look up the DB through h2-console, you'll see there are two users inserted: you and your friend.
- 
-![](./screenshots/10) 
-10. Also, you'll see the messages you've sent and received are stored in encrypted form and there's nothing that can decrypt this message in the DB.
+<img src="./screenshots/09.png" alt="Description" style="width:40%; height:auto;">
+
+10. Also, you'll see the messages you've sent and received are stored in encrypted form and there's nothing that can decrypt this message in the DB. 
+<img src="./screenshots/10.png" alt="Description" style="width:40%; height:auto;">
+
